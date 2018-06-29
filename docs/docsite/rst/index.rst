@@ -29,7 +29,7 @@ Ansible releases a new major release of Ansible approximately every two months. 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Using Ansible
+   :caption: Using Ansible1
 
    user_guide/index
 
